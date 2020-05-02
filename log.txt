@@ -1,0 +1,12 @@
+Class addr: 95fa00 Seed sent: 1693381262
+Class addr: 95fa00 MD5 received: 4290b3283e2f6b047973a659ca53a958, we have: 4290b3283e2f6b047973a659ca53a958
+Class addr: 590050 Seed sent: 2044033930
+Class addr: 590050 MD5 received: c7962e46ed74792040f183a8cf7ed28e, we have: c7962e46ed74792040f183a8cf7ed28e
+Class addr: 9c1050 Seed sent: 1234877550
+Class addr: 9c1050 MD5 received: abf76c8d55da8932647704167e66c9b4, we have: abf76c8d55da8932647704167e66c9b4
+Class addr: ac0050 Seed sent: 1751289742
+Class addr: ac0050 MD5 received: 9ddf6d9ac642738d20a70f5de00a2dcc, we have: 9ddf6d9ac642738d20a70f5de00a2dcc
+Class addr: b80050 Seed sent: -2131536266
+Class addr: b80050 MD5 received: 44984d655e4401292686b50a55b56aa0, we have: 44984d655e4401292686b50a55b56aa0
+Class addr: a00050 Seed sent: -1936885786
+Class addr: a00050 MD5 received: f398fb1f70431f51052ed1e170970b3d, we have: f398fb1f70431f51052ed1e170970b3d
